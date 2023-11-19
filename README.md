@@ -1,10 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm @SyedTalha!
 
 <a href="https://www.linkedin.com/in/talhashah-dev/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png"  />
 </a>
 <a href="mailto:syedt.in00@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
 <br />
