@@ -11,7 +11,7 @@
 
 ### About Me 🚀
  <h4>🎓 Curruntly I am Sudent at Saylani Mass IT Training (SMIT) and learning MERN Stack Development</br>
-👨‍💻  I am passionate about programming, Metaverse anda Gaming and also always passionate about learning new technologies<h4/>
+👨‍💻  I am passionate about programming, Metaverse and Gaming and also always passionate about learning new technologies<h4/>
 
 
 <h3 align="left">Languages & Tools:</h3>
