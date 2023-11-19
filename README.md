@@ -4,8 +4,9 @@
   <img align="left" width="26px" src="https://www.flaticon.com/free-icons/linkedin" alt="linkden icon" />
 </a>
 <a href="mailto:syedt.in00@gmail.com">
-  <img align="left" width="26px" src="https://www.flaticon.com/free-icons/gmail" title="gmail icon" />
+  <img align="left" width="26px" src="https://www.flaticon.com/free-icon/new_10829119?term=gmail&page=1&position=10&origin=search&related_id=10829119" title="gmail icon" />
 </a>
+
 
 
 
