@@ -1,10 +1,10 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm @SyedTalha!
 
 <a href="https://www.linkedin.com/in/talhashah-dev/">
-  <img align="left" width="26px" src="https://www.flaticon.com/free-icons/linkedin" alt="linkden icon" />
+  <img align="left" width="26px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="linkden icon" />
 </a>
 <a href="mailto:syedt.in00@gmail.com">
-  <img align="left" width="26px" src="https://www.flaticon.com/free-icon/new_10829119?term=gmail&page=1&position=10&origin=search&related_id=10829119" title="gmail icon" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" title="gmail icon" />
 </a>
 
 
