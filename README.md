@@ -1,21 +1,19 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm @SyedTalha!
-
-<a href="https://www.linkedin.com/in/talhashah-dev/">
-  <img align="left" width="26px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" alt="linkden icon" />
-</a>
-<a href="mailto:syedt.in00@gmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" title="gmail icon" />
-</a>
-
-
-
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/talhashah-dev/">Syed Talha</a>!</h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=0357F7&lines=Learning+Web+Development+%3A)" /> </h3>
 
 <br />
 
-### About Me 🚀
- <h4>🎓 Curruntly I am Sudent at Saylani Mass IT Training (SMIT) and learning MERN Stack Development</br>
-👨‍💻  I am passionate about programming, Metaverse and Gaming and also always passionate about learning new technologies<h4/>
+<h1>About Me 🚀</h1> 
+ <h4>🎓 Curruntly I am Sudent at Saylani Mass IT Training(SMIT) and learning Web and App Development</br>
+👨‍💻  I am passionate about Programming, Metaverse and Gaming and also always passionate about learning new technologies</h4>
 
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/talhashah-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:syedt.in00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/talhashah_dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/virtual408" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</div>
 
 <h3 align="left">Languages & Tools:</h3>
 
@@ -27,7 +25,5 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-Bootstrap-7a52b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" /> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/badge/-Bootstrap-7a52b3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="bootstrap" /> </a>
 </p>
-
-
