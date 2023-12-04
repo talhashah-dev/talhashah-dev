@@ -29,11 +29,13 @@
 ## ⚙️GitHub Analytics
 
 <p align="center">
+ <a href="https://github.com/talhashah-dev">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talhashah-dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhashah-dev&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhashah-dev&theme=algolia&hide_border=false"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=talhashah-dev&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
+ </a>
+ </p>
 
 
 ## ⚡Recent GitHub Activity
