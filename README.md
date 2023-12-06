@@ -36,12 +36,7 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=talhashah-dev&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
  </a>
  </p>
-
-
-## ⚡Recent GitHub Activity
  
-[![Talha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talhashah-dev&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
