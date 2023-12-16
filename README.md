@@ -7,7 +7,7 @@
 ## 🚀 About Me
  <h4>👨‍💻 Curruntly I am Sudent at Saylani Mass IT Training(SMIT) and learning Web and App Development</br>
 📚  I am passionate about Programming, Metaverse and Gaming and also always passionate about learning new technologies</h4>
-
+ 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/talhashah-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
