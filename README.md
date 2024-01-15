@@ -21,6 +21,9 @@
 <a href="https://www.w3schools.com/css/"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/> </a>
 <a href="https://getbootstrap.com/" ><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
+<a href="https://github.com/" ><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+<a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+<a href="https://react.dev/" ><img src="https://img.shields.io/badge/react-444?style=for-the-badge&logo=react&logoColor=blue" alt="React.js"/> </a>
 </p>
 
 
