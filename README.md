@@ -12,6 +12,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/talhashah-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:syedt.in00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://twitter.com/" ><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=fff" alt="Twitter"/> </a>
 </div>
 
 ## 💻Tech Stack
@@ -25,7 +26,6 @@
 <a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://react.dev/" ><img src="https://img.shields.io/badge/react-444?style=for-the-badge&logo=react&logoColor=blue" alt="React.js"/> </a>
 <a href="https://firebase.google.com/" ><img src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase&logoColor=F58717" alt="Firebase"/> </a>
-<a href="https://twitter.com/" ><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=fff" alt="Twitter"/> </a>
 </p>
 
 
