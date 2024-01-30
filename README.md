@@ -27,6 +27,7 @@
 <a href="https://react.dev/" ><img src="https://img.shields.io/badge/react-444?style=for-the-badge&logo=react&logoColor=blue" alt="React.js"/> </a>
 <a href="https://firebase.google.com/" ><img src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase&logoColor=F58717" alt="Firebase"/> </a>
 <a href="https://www.npmjs.com/" ><img src="https://img.shields.io/badge/npm-CD3E3D?style=for-the-badge&logo=npm&logoColor=fff" alt="NPM"/> </a>
+<a href="https://nodejs.org/" ><img src="https://camo.githubusercontent.com/b0432ab0567d45add9bf155718ab7de57c330cd3acd719374fae0384e95688c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="NodeJS"/> </a>
 </p>
 
 
