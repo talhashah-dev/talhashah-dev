@@ -26,6 +26,7 @@
 <a href="https://git-scm.com/" ><img src="https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://react.dev/" ><img src="https://img.shields.io/badge/react-444?style=for-the-badge&logo=react&logoColor=blue" alt="React.js"/> </a>
 <a href="https://firebase.google.com/" ><img src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase&logoColor=F58717" alt="Firebase"/> </a>
+<a href="https://www.npmjs.com/" ><img src="https://img.shields.io/badge/npm-CD3E3D?style=for-the-badge&logo=npm&logoColor=fff" alt="NPM"/> </a>
 </p>
 
 
