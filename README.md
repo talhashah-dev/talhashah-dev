@@ -5,8 +5,8 @@
 <br />
 
 ## 🚀 About Me
- <h4>👨‍💻 Curruntly I am Sudent at Saylani Mass IT Training(SMIT) and learning Web and App Development</br>
-📚  I am passionate about Programming, Metaverse and Gaming and also always passionate about learning new technologies</h4>
+ <h4>📚 Curruntly I am Sudent at Saylani Mass IT Training(SMIT) and learning Web and App Development</br>
+👨‍💻  I am passionate about Programming, Metaverse and Gaming and also always passionate about learning new technologies</h4>
  
 <h3 align="left">Connect with me:</h3>
 <div align="left">
