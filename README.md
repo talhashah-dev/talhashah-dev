@@ -15,7 +15,7 @@
  <a href="https://twitter.com/" ><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=fff" alt="Twitter"/> </a>
 </div>
 
-## 💻Tech Stack
+## 💻Languages and Tools
 
 <p align="left">
 <a href="https://www.w3.org/html/" > <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> </a>
