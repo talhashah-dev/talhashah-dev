@@ -8,8 +8,9 @@
  <h4>📚 Curruntly I am Sudent at Saylani Mass IT Training(SMIT) and learning Web and App Development</br>
 👨‍💻  I am passionate about Programming, Metaverse and Gaming and also always passionate about learning new technologies</h4>
  
-<h3 align="left">Connect with me:</h3>
+# 🔗Connect with me
 <div align="left">
+  <a href="https://syedtalha.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=portfolio&logoColor=black"/></a>
   <a href="https://www.linkedin.com/in/talhashah-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:syedt.in00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://twitter.com/atsyedtalha" ><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=fff" alt="Twitter"/> </a>
