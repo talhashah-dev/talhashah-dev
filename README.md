@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm Talha, a passionate Web Developer with expertise in HTML, CSS, Bootstrap, JavaScript, and React.js. Currently, I'm honing my skills in React.js and exploring back-end technologies like PostgreSQL and Node.js. Here, you'll find a collection of my projects showcasing my proficiency in creating visually stunning and user-friendly interfaces. Feel free to explore and reach out for collaboration opportunities!
 
-## 🔗 Contact with me
+## 🔗 Connect with me
 <div align="left">
   <a href="https://www.linkedin.com/in/talhashah-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:syedt.in00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
