@@ -5,7 +5,6 @@ I'm Talha, a passionate Web Developer with expertise in HTML, CSS, Bootstrap, Ja
 
 ## 🔗 Contact with me
 <div align="left">
-  <a href="https://syedtalha.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-gray?style=for-the-badge&logo=portfolio&logoColor=fff"/></a>
   <a href="https://www.linkedin.com/in/talhashah-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:syedt.in00@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/atsyedtalha" ><img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=fff" alt="Twitter"/></a>
