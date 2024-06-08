@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Talha!</h1>
 
 ## 🚀 About Me
-I'm Talha, a passionate Web Developer with expertise in HTML, CSS, Bootstrap, JavaScript, and React.js. Currently, I'm honing my skills in React.js and exploring back-end technologies like PostgreSQL and Node.js. Here, you'll find a collection of my projects showcasing my proficiency in creating visually stunning and user-friendly interfaces. Feel free to explore and reach out for collaboration opportunities!
+I'm Talha, a passionate Web Developer skilled in HTML, CSS, Bootstrap, JavaScript, and React.js. Currently focusing on mastering React.js and delving into back-end tech like PostgreSQL and Node.js. Check out my projects demonstrating visually appealing interfaces. Let's collaborate!
 
 ## 🔗 Connect with me
 <div align="left">
