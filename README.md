@@ -20,13 +20,6 @@ I'm Talha, a passionate Web Developer skilled in HTML, CSS, Bootstrap, JavaScrip
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwand CSS"/></a>
   <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/></a>
-
-
-
-
-
-
-  
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-E84E31?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-fff?style=for-the-badge&logo=firebase&logoColor=F58717" alt="Firebase"/></a>
 </p>
