@@ -3,7 +3,6 @@
 👦 I'm **Talha**, a passionate **Web Developer** skilled in **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **React.js**.  
 🌱 Currently, I'm focusing on **React.js** & **Next.js** and back-end technologies like **Node.js**.  
 ✨ I love creating visually appealing and user-friendly interfaces.  
-📫 Let's collaborate and build amazing projects together!
 
 ## 🔗 Connect with me
 <div align="left">
