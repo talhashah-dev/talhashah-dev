@@ -45,21 +45,21 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/talhashah-dev">  
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talhashah-dev&layout=compact&langs_count=8&theme=algolia" alt="Most used Languages"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhashah-dev&theme=algolia&hide_border=false" alt="Github Streak" />
   </a>
-</p>
-
+</p> 
 ---
+-->
 
 
 ## 📢 Fun Facts
 - 🔥 Passionate about open-source and MERN stack projects.  
-- 🐧 Linux enthusiast, exploring the power of command-line tools.  
+<!-- - 🐧 Linux enthusiast, exploring the power of command-line tools. -->
 - 🎨 Always striving for a balance between design & functionality.  
 
 ---
