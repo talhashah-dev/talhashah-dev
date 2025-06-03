@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Talha!</h1>
+<h1 align="center">👋 Hi!</h1>
 
-👦 I'm **Talha**, a passionate **Full-Stack Web Developer** skilled in both front-end and back-end technologies.  
+👦 I'm a passionate **Full-Stack Web Developer** skilled in both front-end and back-end technologies.  
 🌱 Currently, I'm focusing on **React.js** and **MERN stack** along with **Linux** for development.  
 ✨ I love creating visually appealing and user-friendly interfaces while optimizing performance.  
 
